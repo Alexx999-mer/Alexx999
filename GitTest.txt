@@ -1,2 +1,5 @@
 prima incercare 
 a mers din prima 
+
+AM MODIFICAT TEXTUL
+VA APAREA IN PULL REQUEST
